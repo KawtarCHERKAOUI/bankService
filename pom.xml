@@ -8,7 +8,7 @@
         <version>3.3.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>meryem.emsi</groupId>
+    <groupId>kawtar.emsi</groupId>
     <artifactId>App_2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>App_2</name>

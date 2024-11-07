@@ -1,4 +1,4 @@
-package meryem.emsi.app_2;
+package kawtar.emsi.app_2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
